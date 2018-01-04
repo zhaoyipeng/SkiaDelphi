@@ -99,7 +99,8 @@
         <DCCReference Include="..\Source\Binding\SkiaApi.pas"/>
         <DCCReference Include="..\Source\Binding\SKColorSpace.pas"/>
         <DCCReference Include="..\Source\Binding\SKMatrix.pas"/>
-        <DCCReference Include="..\Source\Definitions.pas"/>
+        <DCCReference Include="..\Source\Binding\Definitions.pas"/>
+        <DCCReference Include="..\Source\Binding\SKImageInfo.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
